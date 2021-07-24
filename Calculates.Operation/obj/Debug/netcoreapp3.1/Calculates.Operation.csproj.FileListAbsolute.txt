@@ -1,0 +1,9 @@
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\bin\Debug\netcoreapp3.1\Calculates.Operation.deps.json
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\bin\Debug\netcoreapp3.1\Calculates.Operation.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\bin\Debug\netcoreapp3.1\Calculates.Operation.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.csproj.AssemblyReference.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.AssemblyInfoInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.AssemblyInfo.cs
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Operation\obj\Debug\netcoreapp3.1\Calculates.Operation.pdb

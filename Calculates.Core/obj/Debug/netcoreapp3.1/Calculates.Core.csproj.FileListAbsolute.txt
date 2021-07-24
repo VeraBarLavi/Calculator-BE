@@ -1,0 +1,14 @@
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.Core.deps.json
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.Core.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.Core.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.DB.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.Operation.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.DB.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\bin\Debug\netcoreapp3.1\Calculates.Operation.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.AssemblyInfo.cs
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.csproj.CopyComplete
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.Core\obj\Debug\netcoreapp3.1\Calculates.Core.pdb

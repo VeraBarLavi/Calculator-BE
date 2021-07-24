@@ -1,0 +1,12 @@
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\bin\Debug\netcoreapp3.1\Calculates.DB.deps.json
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\bin\Debug\netcoreapp3.1\Calculates.DB.runtimeconfig.json
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\bin\Debug\netcoreapp3.1\Calculates.DB.runtimeconfig.dev.json
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\bin\Debug\netcoreapp3.1\Calculates.DB.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\bin\Debug\netcoreapp3.1\Calculates.DB.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.csproj.AssemblyReference.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.AssemblyInfoInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.AssemblyInfo.cs
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.dll
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.pdb
+C:\Users\User\source\Calculator.WebApi\Calculates.DB\obj\Debug\netcoreapp3.1\Calculates.DB.genruntimeconfig.cache
